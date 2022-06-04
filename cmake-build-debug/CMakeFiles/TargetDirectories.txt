@@ -1,0 +1,3 @@
+C:/Users/Ania/Desktop/MITP/przykladowy_kolos_cz1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ania/Desktop/MITP/przykladowy_kolos_cz1/cmake-build-debug/CMakeFiles/przykladowy_kolos_cz1.dir
+C:/Users/Ania/Desktop/MITP/przykladowy_kolos_cz1/cmake-build-debug/CMakeFiles/edit_cache.dir
